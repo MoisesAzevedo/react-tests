@@ -13,9 +13,9 @@
 
 2. start the project from its root folder.
 
-3. enter the command: *npm run dev*
+3. enter the command: _npm run dev_
 
-4. To start the API, enter the command: *cd "./pokemon api/pokemon-fake-api"*
+4. To start the API, enter the command: _cd "./pokemon api/pokemon-fake-api"_
 
 5. Then enter the command: *npm run dev*
 
