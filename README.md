@@ -1,9 +1,9 @@
 # react-tests
 
 ## Demonstrated Skills:
-  > React Testing Library
-  > Cypress
-  > SCSS design
+  - React Testing Library
+  - Cypress
+  - SCSS design
 
 
 
