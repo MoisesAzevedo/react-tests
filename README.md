@@ -1,15 +1,14 @@
 # react-tests
 
 ## Demonstrated Skills:
-  - React Testing Library
-  - Cypress
-  - SCSS design
 
-
+- React Testing Library
+- Cypress
+- SCSS design
 
 ## How to start?
 
-1. Clone the project from github. 
+1. Clone the project from github.
 
 2. start the project from its root folder.
 
@@ -19,3 +18,4 @@
 
 5. Then enter the command: **npm run dev**
 
+6. Enter the command: **npm run test**
